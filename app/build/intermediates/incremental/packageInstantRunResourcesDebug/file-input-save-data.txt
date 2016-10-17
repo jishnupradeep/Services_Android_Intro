@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Sat Oct 15 12:28:26 CDT 2016
+1.base=/Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.file=/Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+4.set=ANDROID_RESOURCE
+2.base=/Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=/Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+0.file=/Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/icon.png
+4.base=/Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/build/intermediates/res/resources-debug.ap_

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="484462211750724"
+    token="-3786445462034818359"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="118" />
+    <task
+        name="instant-run-dex"
+        duration="741" />
+    <task
+        name="instant-run-transform"
+        duration="68" />
+    <task
+        name="verifier"
+        duration="7" />
+
+    <artifact
+        location="/Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="481461094890777"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="484163932107502"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="484462211750724"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

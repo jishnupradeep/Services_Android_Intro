@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:3:3-30
+		INJECTED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:5:3-28
+		INJECTED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:4:3-26
+		INJECTED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:6:3-8:39
+	android:targetSdkVersion
+		ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:8:7-36
+	android:minSdkVersion
+		ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:7:7-33
+application
+ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:10:3-25:17
+	android:label
+		ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:12:5-37
+	android:icon
+		ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:11:5-41
+activity#com.paad.services.MyActivity
+ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:13:5-20:16
+	android:label
+		ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:15:7-39
+	android:name
+		ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:14:7-33
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:16:7-19:23
+action#android.intent.action.MAIN
+ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:17:9-61
+	android:name
+		ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:17:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:18:9-69
+	android:name
+		ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:18:19-66
+service#com.paad.services.MyService
+ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:22:5-64
+	android:enabled
+		ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:22:14-36
+	android:name
+		ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:22:37-62
+service#com.paad.services.MyMusicService
+ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:23:5-69
+	android:enabled
+		ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:23:14-36
+	android:name
+		ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:23:37-67
+service#com.paad.services.MyIntentService
+ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:24:5-70
+	android:enabled
+		ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:24:14-36
+	android:name
+		ADDED from /Users/Jishnu/AndroidStudioProjects/PA4AD_Ch09_MyService1/app/src/main/AndroidManifest.xml:24:37-68
